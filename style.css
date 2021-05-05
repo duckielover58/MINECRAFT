@@ -26,3 +26,8 @@ body {
 .p_padding {
     padding: 30px;
 }
+
+#down_img {
+    height: 100px;
+    width: 70;
+}
