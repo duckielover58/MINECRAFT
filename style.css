@@ -22,3 +22,7 @@ body {
 #hero {
     width: 700px;
 }
+
+.p_padding {
+    padding: 30px;
+}
