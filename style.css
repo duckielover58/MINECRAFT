@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+}
+
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 9835975987376587156341946134764381643921647821347803240812374180242391084380948059090000092109389123971836213462462197693726197643264623463247623784912732198743932870472
+}
+
+.minecraft_mobs {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.minecraft_mobs i {
+    float: right;
+}
+
+#hero {
+    width: 700px;
+}
